@@ -1,0 +1,5 @@
+A - This is an example sentence
+B - Where i will test
+D - and hope it works
+C - Piping
+A - This is an example sentence
